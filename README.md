@@ -1,1 +1,2 @@
-# tugas_anreg-123
+# simple_linear_regretion_
+ini belum selesai
